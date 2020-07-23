@@ -1,3 +1,2 @@
-kubeadm join 192.168.0.105:6443 --token fqugtn.o6fs47gixnvy9ki9 \
-    --discovery-token-ca-cert-hash sha256:740a1eedc566c670e1f29011e0a84756ebd60e1fe4e80ed6e81c310ff19c7c50 
-
+kubeadm join 192.168.0.105:6443 --token iofgpo.exlocgtqk0teqa3t \
+    --discovery-token-ca-cert-hash sha256:8c98a5ff2f380b7e26c1284c9066e349347c5b9558ae4a0ca55a4eadd4522ab9
